@@ -1,3 +1,9 @@
+---
+title: "The Nooks and Crannies of My Dev Setup"
+---
+
+A crude concoction of my personal setups
+
 The following custom alias helps me with using a fuzzy finder `fzf` for switching branches. No more pain of remembering or copy pasting branch names!
 ```bash
 alias branch='
