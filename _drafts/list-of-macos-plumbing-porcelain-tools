@@ -1,0 +1,30 @@
+
+### Third party applications
+ - aerospace
+ - karabiner elements
+ - raycast
+ - fzf + zoxide
+ - clippy
+ - 
+
+
+
+
+todo: Somehow setup inclusion of ~/.zshrc and other such schenanigans automatically here
+- aerospace config
+- raycast defaults config exports
+- nvim config
+- ssh config
+- ~/.zshrc and sourced shit in that
+- tmux conf
+- karabiner elements config
+- clippy
+
+todo: Also push tampermonkey scripts to a repo
+
+
+If we can setup a custom hook or watcher on these files so that whenever an edit is made to them the logic automatically runs to save it.
+
+
+### Tips and tricks
+- Use `$(brew --prefix)` in setup scripts to automatically adjust for homebrew root which in most cases is `/opt/homebrew/`
