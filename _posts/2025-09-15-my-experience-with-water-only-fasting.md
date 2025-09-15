@@ -41,3 +41,8 @@ For Supercharged Hydration - Zero Sugar, Zero Calories](https://in.fastandup.com
 #### Monday, 15 September 2025 (Day 4)
 - Felt overly enegetic
 - Even came to office for a full work day
+- went to workout for 45 mins. felt low after the workout.
+- intense craving for food and lightheadednes, which went away after electrolytes.
+- thought about breaking the fast seeing my roomate eat
+- thinking about lots if food which i want to eat.
+
