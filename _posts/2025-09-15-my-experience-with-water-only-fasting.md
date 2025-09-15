@@ -9,7 +9,8 @@ title: "My experience of X days water only fasting"
    - 7g KCl(elemental pottasium: 54%)
    - 440mg elemental magnesium: [Brand Ace blend](https://aceblend.com/products/max-magnesium?variant=45549307658498) which also has B12 and D3
    - L carnitine- 20 ml Brand: [Carbamide Forte L Carnitine Liquid](https://www.amazon.in/Carbamide-Forte-Carnitine-Serving-Vitamins/dp/B0BF5CXW9B)
-  - Black coffee/Green tea: This should just be water and the coffee/tea 
+   - 1/2 tsp of baking soda
+  - Black coffee/Green tea: This should just be water and the coffee/tea
 
 Note: Basically anything with fat/protein/carb and anything which can spike insulin should preferrably not taken. This is what i followed with the exception of [Fast&Up Dryp Vitamin Drink - Peach
 For Supercharged Hydration - Zero Sugar, Zero Calories](https://in.fastandup.com/products/fast-up-dryp-vitamin-drink-peach-flavour?srsltid=AfmBOooQNShgAKwiXnaMl1oBf0JAuWcEt170pcx34eBSAHB6W5Zm7ylr) which says zero calorie on packaging but has `0.20g` carb per `100ml`. I drank two bottles (500ml each) but stopped it as soon as i saw the nutritional label. You should check nutritional label for any packaged zero calorie thing. I personally stopped taking pacakged things altogether because there are nuances like: FSSAI allowing a nutritional label to be marked as 0 cal if it's below 0.2 calorie. Frankly I feel it's pedantic to worry about it but it makes more sense to rely on raw ingredients. Also synthetic flavors or artificial sweetners might do more harm in fasting, I don't know about this but it's simply safer to skip all packaged items.
