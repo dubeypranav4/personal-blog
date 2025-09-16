@@ -46,4 +46,9 @@ For Supercharged Hydration - Zero Sugar, Zero Calories](https://in.fastandup.com
 - intense craving for food and lightheadednes, which went away after electrolytes.
 - thought about breaking the fast seeing my roomate eat
 - thinking about lots if food which i want to eat.
+- started taking 1/2 tsp baking soda as well.
 
+### Tuesday, 16 September 2025 (Day 5)
+- woke up feeling alright. not good not bad.
+- went to gym for a light workout.
+- feeling energetic after the workout after drinking electrolytes.
